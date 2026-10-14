@@ -50,12 +50,3 @@ ui/                  FRONTEND (Pygame)
   screens.py         menu, dashboard, rocket builder, planets, game, result
 ```
 
-## Push to GitHub
-```bash
-git init
-git add .
-git commit -m "Moon Royale space game"
-git branch -M main
-git remote add origin https://github.com/<your-user>/<your-repo>.git
-git push -u origin main
-```
